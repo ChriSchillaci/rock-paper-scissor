@@ -55,6 +55,7 @@ const comparison = (player, opponent) => {
     }
 };
 
+
 const startOver = () => {
     playerVictories = 0;
     opponentVictories = 0;
