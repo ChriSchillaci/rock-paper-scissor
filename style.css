@@ -99,6 +99,11 @@ button {
     rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
 }
 
+button:hover {
+  color: white;
+  background-color: rgb(49, 49, 49);
+}
+
 #reset {
   text-align: center;
   margin-top: 20px;
